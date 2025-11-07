@@ -27,9 +27,9 @@ author:
   name             : "Dr. Suchith Hoblidar"  # Update this with your name
   pronouns         : "she/her" # example: "she/her"  
   bio              : |
-                      MBBS, MS [OBG], FMIS, FRM, Dip. MIS Keil [Germany]<br><br>
-                      Professor, Dept. of OBG, AJ Institute of Medical Sciences and Research Centre<br><br>
-                      Consultant Obstetrician and Gynaecologist, Laparoscopic Surgeon and Infertility Specialist"
+                      <p>MBBS, MS [OBG], FMIS, FRM, Dip. MIS Keil [Germany]</p>
+                      <p>Professor, Dept. of OBG, AJ Institute of Medical Sciences and Research Centre</p>
+                      <p>Consultant Obstetrician and Gynaecologist, Laparoscopic Surgeon and Infertility Specialist</p>
   location         : "Udupi, Karnataka, India"
   employer         : #"Red Brick University"
   uri              : # URL
