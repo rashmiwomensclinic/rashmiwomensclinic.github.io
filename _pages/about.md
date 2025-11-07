@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Dr. Suchith Hoblidar is a Consultant Obstetrician and Gynaecologist, Laparoscopic Surgeon and Infertility Specialist with over 19 years of experience and committed to providing excellent patient care.   
+
 She started Rashmi Women's and Multi-Speciality Clinic in 2024 and provides comprehensive services pregnancy & childbirth care, fertility & reproductive health, gynaecological procdures, and cervical & gynaecological cancer care.  
 She has expertise in vaginal deliveries, scarless hysterectomy, laparoscopic surgeries, hysteroscopy and gynaec cancer surgeries.
 
