@@ -23,7 +23,7 @@ repository               : "rashmiwomensclinic/rashmiwomensclinic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpeg" #"profile.png"
   name             : "Dr. Suchith Hoblidar"  # Update this with your name
   pronouns         : "she/her" # example: "she/her"  
   bio              : |
