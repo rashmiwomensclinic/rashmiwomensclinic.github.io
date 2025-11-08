@@ -1,15 +1,14 @@
 ---
-title: "Services"
+title: "Comprehensive Women's Health Care Services"
 permalink: /services/
 layout: single
 ---
 
-## Comprehensive Women's Health Care
-### **Pregnancy & Childbirth Care**
+At Rashmi Women's and Multi-Speciality we provide a comprehensive set of services with personal attention and care.
+
+## **🤰 Pregnancy & Childbirth Care — From Planning to Postnatal Support**
 
 **Services included:** Antenatal checkups, High-risk pregnancy management, Vaginal deliveries, Cesarean deliveries, Postnatal services, Pre-conceptional counselling
-
-### **🤰 Comprehensive Pregnancy & Childbirth Care — From Planning to Postnatal Support**
 
 Whether you’re planning your first pregnancy or welcoming another child, our clinic provides **complete care for mothers and babies**. From pre-conception counselling to safe delivery and postnatal recovery, we guide you every step of the way.
 
@@ -21,11 +20,9 @@ We offer:
 
 Our goal is to ensure a **healthy, safe, and joyful experience** for both mother and baby.
 
-### **Fertility & Reproductive Health**
+## **🌷 Fertility & Reproductive Health — Personalized Care for Every Stage**
 
 **Services included:** Infertility treatment, Contraceptive services, Pre-conceptional counselling
-
-### **🌷 Fertility & Reproductive Health — Personalized Care for Every Stage**
 
 We understand that reproductive health is deeply personal. Our clinic provides **compassionate and expert care** to help you plan your family, manage fertility challenges, or choose the right contraception.
 
@@ -36,11 +33,9 @@ Our services include:
 
 We combine **medical expertise with emotional support**, helping you make informed decisions about your reproductive journey.
 
-### **Gynecological Procedures & Treatments**
+## **🔬 Gynecological Procedures & Treatments — Modern, Minimally Invasive Care**
 
 **Services included:** Hysteroscopy, Laparoscopy, Cryosurgery, Scarless hysterectomy, Treatment of menstrual abnormalities and other gynecological problems
-
-### **🔬 Gynecological Procedures — Modern, Minimally Invasive Care**
 
 Our clinic provides **advanced gynecological procedures** to diagnose and treat a range of conditions safely and effectively. We prioritize **minimally invasive techniques** for faster recovery and better outcomes.
 
@@ -51,11 +46,10 @@ Services include:
 
 With **expert care and the latest techniques**, we help you maintain optimal gynecological health.
 
-### **Cervical & Gynecologic Cancer Care**
+## **🎗️ Cervical & Gynecologic Cancer Care — Early Detection and Advanced Treatment**
 
 **Services included:** Pap smear, Cryosurgery, Gynaec cancer surgeries
 
-### **🎗️ Cervical & Gynecologic Cancer Care — Early Detection and Advanced Treatment**
 
 Early detection saves lives. Our clinic focuses on **preventive screening and advanced treatment** for cervical and gynecologic cancers, combining medical expertise with compassionate support.
 
