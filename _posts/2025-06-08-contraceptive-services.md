@@ -1,6 +1,6 @@
 ---
 title: 'Contraceptive Services — Helping You Make Informed Choices'
-date: 2025-11-08
+date: 2025-06-08
 permalink: /posts/2025/11/contraceptive-services/
 tags:
   - contraceptive
