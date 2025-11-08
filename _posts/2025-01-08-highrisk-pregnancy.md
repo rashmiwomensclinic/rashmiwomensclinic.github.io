@@ -1,6 +1,6 @@
 ---
 title: 'High-Risk Pregnancy Management — Expert Care for Special Situations'
-date: 2025-11-08
+date: 2025-01-08
 permalink: /posts/2025/11/highrisk-pregnancy/
 tags:
   - high-risk

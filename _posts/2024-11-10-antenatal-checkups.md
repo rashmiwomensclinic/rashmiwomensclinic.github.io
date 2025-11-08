@@ -1,6 +1,6 @@
 ---
 title: 'Antenatal Checkups — Caring for You and Your Baby'
-date: 2025-11-08
+date: 2024-11-10
 permalink: /posts/2025/11/antenatal-checkups/
 tags:
   - antenatal
