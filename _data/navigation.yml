@@ -19,15 +19,20 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
+
+  - title: "Services"
+    url: /services/
+            
   - title: "Articles"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
+
