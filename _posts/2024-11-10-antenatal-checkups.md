@@ -24,4 +24,4 @@ During your antenatal visits, we:
 
 Early and consistent care makes a big difference — helping you feel confident, informed, and supported every step of the way.
 
-📅 **Schedule** your antenatal visit today at **Rashmi Women’s and Multi-Speciality Clinic** by calling us at [**76765 81025**](tel:7676581025) and ensure a safe and healthy pregnancy for you and your baby.
+📅 **Schedule** your antenatal visit today at **Rashmi Women’s and Multi-Speciality Clinic** by calling us at [**76765 81025**](tel:7676581025 "Call") and ensure a safe and healthy pregnancy for you and your baby.

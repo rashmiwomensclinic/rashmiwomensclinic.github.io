@@ -25,4 +25,4 @@ Our postnatal services are designed to help you recover, adjust, and thrive. The
 
 Proper postnatal care helps ensure a healthy start for your baby — and a smooth, confident recovery for you.
 
-🌸 **We’re here to support you through every step of motherhood.** Please contact Rashmi Women’s and Multi-Speciality Clinic at [**76765 81025**](tel:7676581025) to schedule a consultation.
+🌸 **We’re here to support you through every step of motherhood.** Please contact Rashmi Women’s and Multi-Speciality Clinic at [**76765 81025**](tel:7676581025 "Call") to schedule a consultation.

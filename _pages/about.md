@@ -12,7 +12,7 @@ redirect_from:
 She started **Rashmi Women's and Multi-Speciality Clinic** in 2024 and provides comprehensive services across pregnancy & childbirth care, fertility & reproductive health, gynaecological procdures, and cervical & gynaecological cancer care.  
 
 The clinic is located at 'Vishram' Ground Floor, Nairkere road, near Brahmagiri Circle, Udupi.  
-You can walk in or schedule an appointment by phone at [**76765 81025**](tel:7676581025).  
+You can walk in or schedule an appointment by phone at [**76765 81025**](tel:7676581025 "Call").  
 <!-- ![Clinic photo](/images/IMG_1530.JPG) -->
 <img src="{{ site.baseurl }}/images/IMG_1530.JPG" alt="Photo of the Clinic" style="max-width: 50%; height: auto; margin: 1.5rem 0;">  
 <a href="https://maps.app.goo.gl/5PLQ7hBXHrg5dYFt5" target="_blank" rel="noopener noreferrer">`View on Google Maps`</a>

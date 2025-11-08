@@ -24,4 +24,4 @@ At our clinic, we provide **specialized monitoring and personalized care** for h
 
 With timely care and the right medical support, most high-risk pregnancies can lead to healthy outcomes.
 
-👩‍⚕️ **Our goal is your safety and peace of mind — every step of the way.** Please contact Rashmi Women’s and Multi-Speciality Clinic at [**76765 81025**](tel:7676581025) to schedule a consultation.
+👩‍⚕️ **Our goal is your safety and peace of mind — every step of the way.** Please contact Rashmi Women’s and Multi-Speciality Clinic at [**76765 81025**](tel:7676581025 "Call") to schedule a consultation.

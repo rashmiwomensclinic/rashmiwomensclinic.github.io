@@ -21,4 +21,4 @@ At our clinic, we offer **personalized contraceptive counselling** to help you s
 
 Our goal is to help you make **safe, comfortable, and confident choices** about your reproductive health.
 
-💬 **Schedule a consultation to discuss the best contraceptive options for you.** You can contact Rashmi Women’s and Multi-Speciality Clinic at [**76765 81025**](tel:7676581025) to schedule a consultation.
+💬 **Schedule a consultation to discuss the best contraceptive options for you.** You can contact Rashmi Women’s and Multi-Speciality Clinic at [**76765 81025**](tel:7676581025 "Call") to schedule a consultation.

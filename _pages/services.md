@@ -60,4 +60,4 @@ We provide:
 
 Our goal is **early diagnosis, effective treatment, and complete support** for you and your family.
 
-Get in touch with **Rashmi Women’s and Multi-Speciality Clinic** at [**76765 81025**](tel:76765 81025) to schedule a consultation.
+Get in touch with **Rashmi Women’s and Multi-Speciality Clinic** at [**76765 81025**](tel:76765 81025 "Call") to schedule a consultation.
