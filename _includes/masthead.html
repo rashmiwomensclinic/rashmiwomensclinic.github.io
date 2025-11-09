@@ -8,12 +8,14 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist">
             <a href="{{ base_path }}/">
+              {% if site.logo %}
               <img 
               class="masthead__logo" 
               src="{{ base_path }}/images/logo.png" 
               alt="{{ site.title }} logo"
               style="height: 2rem; width: auto; vertical-align: middle; margin-right: 0.5rem;"
               >
+              {% endif %}
               {{ site.title }}
             </a>
           </li>
