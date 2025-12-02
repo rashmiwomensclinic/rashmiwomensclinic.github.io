@@ -1,5 +1,5 @@
 ---
-title: 'Pre-Conceptional Counselling — Preparing for a Healthy Pregnancy'
+title: '🌼 Pre-Conceptional Counselling — Preparing for a Healthy Pregnancy'
 date: 2025-11-08
 permalink: /posts/2025/11/preconceptional-counselling/
 tags:
@@ -13,9 +13,11 @@ During your visit, we focus on:
 
 * Reviewing your medical, surgical, and family history
 
-* Checking and managing conditions like diabetes, thyroid disorders, or anemia
+* Checking and managing conditions like diabetes, thyroid disorders, anemia and other pre-existing medical conditions
 
 * Ensuring vaccinations are up to date
+
+* Starting pre-conceptional medication
 
 * Discussing nutrition, folic acid, and lifestyle habits
 

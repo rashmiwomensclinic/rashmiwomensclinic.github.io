@@ -1,11 +1,12 @@
 ---
-title: 'Postnatal Services — Caring for You After Delivery'
+title: '👶 Postnatal Services — Caring for You After Delivery'
 date: 2025-03-20
 permalink: /posts/2025/11/postnatal-services/
 tags:
   - postnatal
   - mother
   - child
+  - lactation
 ---
 The journey doesn’t end with childbirth — it simply enters a new and beautiful phase. **Postnatal care** focuses on the health and well-being of both mother and baby in the weeks following delivery.
 
@@ -15,11 +16,13 @@ Our postnatal services are designed to help you recover, adjust, and thrive. The
 
 * Managing post-delivery bleeding, stitches, or C-section healing
 
+* Post-natal exercises
+
 * Breastfeeding support and lactation guidance
 
 * Counseling for emotional well-being and postpartum depression
 
-* Newborn care tips and vaccinations
+* Newborn care tips
 
 * Family planning and contraception advice
 

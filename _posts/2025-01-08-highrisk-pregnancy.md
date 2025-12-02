@@ -1,14 +1,15 @@
 ---
-title: 'High-Risk Pregnancy Management — Expert Care for Special Situations'
+title: '🤰 High-Risk Pregnancy Management — Expert Care for Special Situations'
 date: 2025-01-08
 permalink: /posts/2025/11/highrisk-pregnancy/
 tags:
   - high-risk
+  - pregancy
   - monitoring
-  - child-care
+  - fetal-health
 ---
 
-Every pregnancy is unique. Some require a little extra attention to ensure the best outcomes for both mother and baby. A **high-risk pregnancy** may involve health conditions such as high blood pressure, diabetes, thyroid disorders, previous pregnancy complications, or carrying twins (or more).
+Every pregnancy is unique. Some require a little extra attention to ensure the best outcomes for both mother and baby. A **high-risk pregnancy** may involve health conditions such as high blood pressure, diabetes, thyroid disorders, previous pregnancy complications, or carrying twins (or more), and other conditions.
 
 At our clinic, we provide **specialized monitoring and personalized care** for high-risk pregnancies, including:
 

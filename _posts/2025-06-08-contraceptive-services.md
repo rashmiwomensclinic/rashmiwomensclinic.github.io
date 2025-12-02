@@ -1,5 +1,5 @@
 ---
-title: 'Contraceptive Services — Helping You Make Informed Choices'
+title: '⚖️ Contraceptive Services — Helping You Make Informed Choices'
 date: 2025-06-08
 permalink: /posts/2025/11/contraceptive-services/
 tags:
@@ -13,7 +13,7 @@ At our clinic, we offer **personalized contraceptive counselling** to help you s
 
 * Temporary methods like pills, injections, intrauterine devices (IUDs), and condoms
 
-* Long-term and permanent options, including implants and sterilization procedures
+* Permanent options such as sterilization procedures
 
 * Guidance on natural family planning and fertility awareness
 

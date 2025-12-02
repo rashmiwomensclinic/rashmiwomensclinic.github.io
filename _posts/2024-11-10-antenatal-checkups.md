@@ -1,11 +1,15 @@
 ---
-title: 'Antenatal Checkups — Caring for You and Your Baby'
+title: '🩺 Antenatal Checkups — Caring for You and Your Baby'
 date: 2024-11-10
 permalink: /posts/2025/11/antenatal-checkups/
 tags:
   - antenatal
+  - pregnancy
   - mother
   - child
+  - vitals
+  - nutritional-advice
+  - lifestyle-advice
 ---
 
 Regular **antenatal checkups** are an essential part of a healthy pregnancy. These visits help monitor both the mother’s and baby’s well-being, detect any potential complications early, and provide guidance for a smooth pregnancy journey.
