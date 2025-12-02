@@ -8,7 +8,7 @@ At Rashmi Women's and Multi-Speciality we provide a comprehensive set of service
 
 ## **🤰 Pregnancy & Childbirth Care — From Planning to Postnatal Support**
 
-**Services included:** Antenatal checkups, High-risk pregnancy management, Vaginal deliveries, Cesarean deliveries, Postnatal services, Pre-conceptional counselling
+**Services included:** Pre-conceptional counselling, checkups, High-risk pregnancy management, Vaginal deliveries, Cesarean deliveries, Post-natal services
 
 Whether you’re planning your first pregnancy or welcoming another child, our clinic provides **complete care for mothers and babies**. From pre-conception counselling to safe delivery and postnatal recovery, we guide you every step of the way.
 
@@ -37,7 +37,7 @@ We combine **medical expertise with emotional support**, helping you make inform
 
 **Services included:** Hysteroscopy, Laparoscopy, Cryosurgery, Scarless hysterectomy, Treatment of menstrual abnormalities and other gynecological problems
 
-Our clinic provides **advanced gynecological procedures** to diagnose and treat a range of conditions safely and effectively. We prioritize **minimally invasive techniques** for faster recovery and better outcomes.
+We provide **advanced gynecological procedures** to diagnose and treat a range of conditions safely and effectively. We prioritize **minimally invasive techniques** for faster recovery and better outcomes.
 
 Services include:  
 * Hysteroscopy and laparoscopy for accurate diagnosis and treatment
@@ -55,6 +55,7 @@ Early detection saves lives. Our clinic focuses on **preventive screening and ad
 
 We provide:  
 * Routine Pap smears for early detection of cervical changes
+* HPV vaccination to prevent carcinoma of the cervix
 * Cryosurgery to treat precancerous lesions
 * Comprehensive surgical care for gynecologic cancers, including minimally invasive options
 
