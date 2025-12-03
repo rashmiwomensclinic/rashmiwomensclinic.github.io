@@ -7,7 +7,6 @@ tags:
   - delivery
   - pain-management
 ---
-### ****
 
 At our clinic we encourage vaginal deliveries. We support women through **natural, safe, and positive vaginal deliveries**, ensuring both mother and baby receive the best care throughout labor and delivery.
 
