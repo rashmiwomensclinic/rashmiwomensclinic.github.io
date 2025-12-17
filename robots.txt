@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rashmiwomensclinic.github.io/sitemap.xml
